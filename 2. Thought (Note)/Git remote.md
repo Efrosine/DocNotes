@@ -1,0 +1,28 @@
+
+### keyword
+- ssh-keygen -> untuk membuat ssh key
+- ssh -T git@github.com -> mengetes apakah sudah terhubung ke github
+- git remote add < nama > < link ssh > -> menambahkan remote repo
+- git remote -> untuk melihat remote apa saja yang ada
+- git remote get-url < nama > -> untuk melihat url dari remote tertentu
+- git remote rm < nama > -> untuk menghapus remote
+- git push < remote > < local branch > -> untuk push ke remote
+- git push < remote > < local branch :namabaru> -> push dengan nama branch baru
+- git push < remote > --all -> push semua branch secara bersamaan
+- git push --delete < remote > < branch > -> menghapus branch remote
+- git clone < url > -> mengcopy git repo 
+- git clone < url > < namaFolder > -> mengcopy git  repo dengan nama folder yang ditentukan
+- git branch -r -> melihat semua branch yang ada di remote 
+- git branch -a -> melihat semua branch yang ada di local dan remote
+- git checkout -b < nama > membuat branch baru dan langsung pindah ke branch tersebut
+- git checkout -b < nama > < remote / branch remote > membuat branch dari remote
+- git fetch < remote > -> untuk mendapat perubahan terakhir pada remote
+- git fetch < remote > < remote branch > -> perubahan pada remote branch tertentu
+-  git diff < local branch >..< remote/remotebranch> mencari perbedaan dari hasil fecth
+- git pull < remote > < remote branch > -> mengambil perubahan ke local
+- git push < remote > < tag > -> mengirim satu tag ke remote
+- git push < remote > --tag -> mengirim semua tag ke remote
+- git fetch < remote > < tag > -> mengambil tag tertentu
+- git push --delete < remote > < tag > -> menghapus tag di remote
+- git merge < remote/branchremote > -> merge dari remote (harus fetch dahulu)
+- 

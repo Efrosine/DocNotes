@@ -1,0 +1,27 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "tabSize": 4,
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "focusNewTab": true,
+  "defaultViewMode": "preview",
+  "showRibbon": true,
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99. Attachment",
+  "showInlineTitle": true,
+  "newFileFolderPath": "Conclusion/fsdf",
+  "newLinkFormat": "shortest",
+  "livePreview": false,
+  "foldHeading": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "99. Attachment/"
+  ]
+}

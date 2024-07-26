@@ -1,0 +1,10 @@
+{
+  "accentColor": "#9dff01",
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "cssTheme": "Efrosine Theme",
+  "enabledCssSnippets": [
+    "textAligment"
+  ]
+}
